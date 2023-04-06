@@ -33,8 +33,8 @@ Splitting the data into test and train
 
 ## PROGRAM:
 ~~~
-Name : Shreenivash V
-Reg No: 212221040153
+Name : G Venkata Pavan Kumar
+Reg No: 212221240013
 ~~~
 
 ~~~
