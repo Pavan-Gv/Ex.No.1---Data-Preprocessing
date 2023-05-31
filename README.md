@@ -37,13 +37,11 @@ Another aspect is that the data set should be formatted in such a way that more 
 5. Normalizing the data
 
 6. Splitting the data into test and train
-
 ## PROGRAM:
 ~~~
 Name : G Venkata Pavan Kumar
 Reg No: 212221240013
 ~~~
-
 ~~~
 import pandas as pd
 df=pd.read_csv("/content/Churn_Modelling.csv")
@@ -70,15 +68,10 @@ sc = StandardScaler()
 df1 = sc.fit_transform(df)
 print(df1)
 ~~~
-
 ## OUTPUT:
 <img width="922" alt="1nn" src="https://user-images.githubusercontent.com/94827772/230164720-35654401-767d-45f1-be28-eecd80a87640.png">
-
 <img width="475" alt="2nn" src="https://user-images.githubusercontent.com/94827772/230164906-8e989a71-7518-4ac7-8084-e0916a5e14f8.png">
-
 <img width="439" alt="3nn" src="https://user-images.githubusercontent.com/94827772/230165089-81e25353-3227-4367-91ce-c806bc1e7594.png">
-
-
 ## RESULT
 Thus the above program for standardizing the given data was implemented successfully.
 
