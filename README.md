@@ -74,7 +74,11 @@ print(df1)
 
 <img width="922" alt="1nn" src="https://user-images.githubusercontent.com/94827772/230164720-35654401-767d-45f1-be28-eecd80a87640.png">
 <img width="475" alt="2nn" src="https://user-images.githubusercontent.com/94827772/230164906-8e989a71-7518-4ac7-8084-e0916a5e14f8.png">
+
 </br>
+</br>
+</br>
+
 <img width="439" alt="3nn" src="https://user-images.githubusercontent.com/94827772/230165089-81e25353-3227-4367-91ce-c806bc1e7594.png">
 
 ## RESULT
